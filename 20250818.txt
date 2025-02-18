@@ -2,7 +2,7 @@
 
 ```````NASIONAL``````
 
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="NASIONAL", GTV ????
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="NASIONAL", GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
